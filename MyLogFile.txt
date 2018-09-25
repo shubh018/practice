@@ -1,0 +1,17 @@
+﻿2018-08-10 10:18:58,118 INFO [1] ToolsQA.Program.Main - The elements on the tab are
+2018-08-10 10:18:58,200 INFO [1] ToolsQA.Program.Main - ------------------------------
+2018-08-10 10:18:59,346 INFO [1] ToolsQA.Program.Main - Home
+2018-08-10 10:18:59,455 INFO [1] ToolsQA.Program.Main - Product Category
+2018-08-10 10:18:59,549 INFO [1] ToolsQA.Program.Main - #0 (no title)
+2018-08-10 10:18:59,644 INFO [1] ToolsQA.Program.Main - All Product
+2018-08-10 10:18:59,652 INFO [1] ToolsQA.Program.Main - ------------------------------
+2018-08-10 10:20:10,407 INFO [1] ToolsQA.Program.Main - List of products on latest blog tab
+2018-08-10 10:20:10,576 INFO [1] ToolsQA.Program.Main - Apple iPad 2 16GB, Wi-Fi,...
+2018-08-10 10:20:10,656 INFO [1] ToolsQA.Program.Main - Apple 27 inch Thunderbolt...
+2018-08-10 10:20:10,775 INFO [1] ToolsQA.Program.Main - Skullcandy PLYR 1 - Black
+2018-08-10 10:20:10,870 INFO [1] ToolsQA.Program.Main - Sennheiser RS 120
+2018-08-10 10:20:10,879 INFO [1] ToolsQA.Program.Main - ------------------------------
+2018-08-10 10:20:10,888 INFO [1] ToolsQA.Program.Main - Items in footer
+2018-08-10 10:20:10,998 INFO [1] ToolsQA.Program.Main - SP Home
+2018-08-10 10:20:11,086 INFO [1] ToolsQA.Program.Main - Sample Page
+2018-08-10 10:20:11,175 INFO [1] ToolsQA.Program.Main - Your Account
